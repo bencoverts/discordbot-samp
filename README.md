@@ -88,7 +88,7 @@ Apakah Anda menyukai proyek ini dan ingin melihatnya terus berkembang? Dukungan 
 
 Anda dapat memberikan donasi melalui:
 
-  - **Dana:** `089673107444`
-  - **BCA:** `7345347372`
+  - **Dana:** `=`
+  - **BCA:** `=`
 
 Terima kasih banyak atas kemurahan hati Anda\! Setiap donasi, berapapun jumlahnya, sangat saya hargai.
